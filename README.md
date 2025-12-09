@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o projeto
 
-O **ProjetoA3** é uma aplicação **Windows Forms em C#** desenvolvida para gerenciar uma **coleção pessoal de jogos de vídeo game**.
+O **ProjetoColecao** é uma aplicação **Windows Forms em C#** desenvolvida para gerenciar uma **coleção pessoal de jogos de vídeo game**.
 O sistema permite cadastrar jogos, visualizar a lista, editar informações, excluir registros e gerenciar imagens associadas a cada jogo.
 
 Este projeto foi desenvolvido com foco em aprendizado de **C#**, **Programação Orientada a Objetos** e **interfaces gráficas (WinForms)**.
